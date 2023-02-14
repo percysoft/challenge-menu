@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/challenge-menu/static/css/main.0179d7c5.css",
+    "main.js": "/challenge-menu/static/js/main.152a6686.js",
+    "static/js/787.b4fe2c5a.chunk.js": "/challenge-menu/static/js/787.b4fe2c5a.chunk.js",
+    "index.html": "/challenge-menu/index.html",
+    "static/media/TuPruTec.svg": "/challenge-menu/static/media/TuPruTec.33b2a83e619985577e53657b4849e525.svg",
+    "static/media/arrow.svg": "/challenge-menu/static/media/arrow.ca5a0e1d67a0f4ddcea997beb282ced2.svg",
+    "static/media/arrow_down.svg": "/challenge-menu/static/media/arrow_down.955594fd64d499bb5b224f53f89ffd60.svg",
+    "static/media/Isotipo.svg": "/challenge-menu/static/media/Isotipo.0fbda66fd9367846501bba8180ebd326.svg",
+    "main.0179d7c5.css.map": "/challenge-menu/static/css/main.0179d7c5.css.map",
+    "main.152a6686.js.map": "/challenge-menu/static/js/main.152a6686.js.map",
+    "787.b4fe2c5a.chunk.js.map": "/challenge-menu/static/js/787.b4fe2c5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0179d7c5.css",
+    "static/js/main.152a6686.js"
+  ]
+}
