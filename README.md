@@ -1,8 +1,10 @@
 # Challenge menu dinamico
-
 ### `npm install`
 
 instala las dependencias.
+### `npm run deploy`
+
+Deploy a github page.
 
 
 ### `npm run start`
@@ -12,7 +14,9 @@ Inicializa el proyecto.
 
 ### `Ejecutar npm install y luego npm run start`
 
+### `Pueden ver el proyecto deployado en el siguiente link`
 
+https://percysoft.github.io/challenge-menu/
 ## Explicacion
 
 - Se creo header y footer en componentes comunes 
