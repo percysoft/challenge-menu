@@ -1,0 +1,10 @@
+.container-footer{
+  bottom: 0;
+  position: absolute;
+  height: 100px;
+  width: 100%;
+  background: #0B21A1;
+  display: flex;
+  justify-content: space-between;
+  padding: 1% 2%;
+}

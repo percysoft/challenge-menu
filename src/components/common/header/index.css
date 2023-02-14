@@ -1,0 +1,14 @@
+.container-header {
+  width: 100%;
+  background: #0B21A1;
+  display: flex;
+  justify-content: space-between;
+  padding:1% 5%;
+}
+
+.container_user {
+  display:flex;
+  color: white;
+  align-items: center;
+  gap:20px;
+}
